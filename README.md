@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ChebetJocelyne
+- 👀 I’m interested in data science, business information technology, and programming.
+- 🌱 I’m currently learning C language as part of my BBIT degree, and I plan to dive deeper into data science soon.
+- 💞️ I’m looking to collaborate on beginner-level programming projects, especially related to data science and business technology.
+- 📫 How to reach me: chebetjocelyne6@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I’m a junior programmer who loves exploring how technology can solve business problems!
